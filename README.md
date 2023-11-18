@@ -31,6 +31,8 @@ pip install owlsec
 
 ## 📚 Usage
 
+- Either simply run `owlsec` or...
+
 ### As a Standalone Script
 
 ```bash
