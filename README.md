@@ -1,6 +1,10 @@
 
 # 🦉 OwlSec Toolkit
 
+<p align="center">
+  <img src="owlsec_helper.png" alt="OWLsec Mascot">
+</p>
+
 ![Python](https://img.shields.io/badge/language-Python-blue.svg) ![Penetration Testing](https://img.shields.io/badge/category-Penetration%20Testing-brightgreen.svg)
 
 ## 📖 Project Description
@@ -19,6 +23,12 @@ OwlSec Toolkit is a Python package designed to streamline and automate various p
 ## 🚀 Installation
 
 ```bash
+pip install owlsec
+```
+
+#### Or...
+
+```bash
 # You may need to manually download HTTPx
 # https://github.com/projectdiscovery/httpx/releases/download/v1.3.5/httpx_1.3.5_linux_386.zip
 # Follow these steps if not using pip as root:
@@ -31,14 +41,7 @@ pip install owlsec
 
 ## 📚 Usage
 
-- Either simply run `owlsec` or...
-
-### As a Standalone Script
-
-```bash
-python3 main.py
-# Follow the on-screen prompts
-```
+- Simply run `owlsec`
 
 ### As a Library
 
